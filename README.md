@@ -1,0 +1,1 @@
+### This is just a repo to keep SaveScumAgent game profiles.
